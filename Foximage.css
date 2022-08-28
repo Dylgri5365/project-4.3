@@ -1,0 +1,10 @@
+.Foximage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Foximage img {
+    width: 100px;
+    height: 100px;
+}
